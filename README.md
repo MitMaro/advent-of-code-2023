@@ -9,6 +9,8 @@ Solutions to the [Advent of Code 2023](https://adventofcode.com/2023) written in
 
 ## Solutions
 
+* [Day 1](src/day1.rs)
+
 ## License
 
 This project is released under the ISC license. See [LICENSE](LICENSE).
